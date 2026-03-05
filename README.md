@@ -1,10 +1,10 @@
 # SQL-Revenue-Concentration-Analysis-git
 Revenue structure and concentration analysis of the Northwind database using advanced SQL, window functions, Pareto analysis, and HHI metrics to evaluate customer, category, and SKU dependency risk.
 
-Live landing page: https://jdesk99.github.io/SQL-Revenue-Concentration-Analysis-git/
 
-## Business Context & Objective
-As revenue accelerated in the most last 5 months, this project evaluates whether growth is structurally resilient or overly dependent on concentrated customers, categories, or SKUs.
+
+## Business Context
+As revenue accelerated sharply during the last five months of the observation period, management required a structural assessment of growth sustainability and concentration risk. The objective was to determine how revenue expansion occurred and whether that expansion was supported by diversified revenue foundations or dependent on concentrated exposure across customers, product categories, or individual SKUs.
 
 The analysis combines:
 - SQL-based growth decomposition
@@ -12,7 +12,13 @@ The analysis combines:
 - Herfindahl-Hirschman Index (HHI) and effective-count translation
 - Market basket association metrics (support, confidence, lift)
 
-## Key Findings (Pages 2-4)
+## Overview
+
+- Live landing page: https://jdesk99.github.io/SQL-Revenue-Concentration-Analysis-git/
+- [Read the full Detailed Project Brief (PDF)](docs/Project%202%20Brief.pdf)
+- Check out forecasting project here: https://jdesk99.github.io/Project-1-Forecasting-Git/
+
+## Summary of Key Findings 
 
 ### Revenue Growth Mechanics
 - Growth was primarily engagement-driven, not acquisition-driven.
