@@ -124,6 +124,53 @@ h1 {
   outline-offset: 2px;
 }
 
+.hero-actions {
+  margin-top: 0.72rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  align-items: flex-end;
+}
+
+.hero-actions-row {
+  display: flex;
+  gap: 0.42rem;
+}
+
+.hero-btn {
+  display: inline-block;
+  font-family: "DM Sans", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  padding: 0.45rem 0.68rem;
+  border: 1px solid transparent;
+}
+
+.hero-btn-primary {
+  width: 100%;
+  text-align: center;
+  background: var(--gold);
+  color: #1b1b1b;
+  border-color: var(--gold);
+}
+
+.hero-btn-secondary {
+  background: transparent;
+  color: #6c5a32;
+  border-color: #c9b999;
+}
+
+.hero-btn:hover {
+  opacity: 0.9;
+}
+
+.hero-btn:focus-visible {
+  outline: 2px solid #4f6fb4;
+  outline-offset: 2px;
+}
+
 .insight-bar {
   margin-top: 0.9rem;
   background: var(--navy);
@@ -219,7 +266,7 @@ h1 {
   padding: 0.8rem 1rem 0.74rem 1.1rem;
   border-bottom: 1px solid var(--line);
   display: flex;
-  align-items: start;
+  align-items: center;
   justify-content: space-between;
   gap: 1rem;
 }
@@ -241,11 +288,15 @@ h1 {
 }
 
 .tag {
-  margin: 0.14rem 0 0;
-  padding: 0.18rem 0.46rem;
+  margin: 0;
+  padding: 0.22rem 0.52rem;
+  min-height: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-family: "DM Mono", monospace;
-  font-size: 0.58rem;
-  letter-spacing: 0.08em;
+  font-size: 0.6rem;
+  letter-spacing: 0.09em;
   text-transform: uppercase;
   border-radius: 2px;
   white-space: nowrap;
@@ -498,6 +549,14 @@ h1 {
   .hero-meta {
     justify-self: start;
     text-align: left;
+  }
+
+  .hero-actions {
+    align-items: flex-start;
+  }
+
+  .hero-actions-row {
+    flex-wrap: wrap;
   }
 
   .split-panels,
