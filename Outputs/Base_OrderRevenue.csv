@@ -1,0 +1,832 @@
+OrderID,CustomerID,OrderDate,CustomerName,CustomerCountry,OrderTotal
+10248,VINET,1994-08-04,Vins et alcools Chevalier,France,440
+10249,TOMSP,1994-08-05,Toms Spezialitäten,Germany,1863.4
+10250,HANAR,1994-08-08,Hanari Carnes,Brazil,1552.6
+10251,VICTE,1994-08-08,Victuailles en stock,France,654.06
+10252,SUPRD,1994-08-09,Suprêmes délices,Belgium,3597.9
+10253,HANAR,1994-08-10,Hanari Carnes,Brazil,1444.8000000000002
+10254,CHOPS,1994-08-11,Chop-suey Chinese,Switzerland,556.6199999999999
+10255,RICSU,1994-08-12,Richter Supermarkt,Switzerland,2490.5
+10256,WELLI,1994-08-15,Wellington Importadora,Brazil,517.8
+10257,HILAA,1994-08-16,HILARIÓN-Abastos,Venezuela,1119.9
+10258,ERNSH,1994-08-17,Ernst Handel,Austria,1614.88
+10259,CENTC,1994-08-18,Centro comercial Moctezuma,Mexico,100.8
+10260,OTTIK,1994-08-19,Ottilies Käseladen,Germany,1504.65
+10261,QUEDE,1994-08-19,Que Delícia,Brazil,448
+10262,RATTC,1994-08-22,Rattlesnake Canyon Grocery,USA,584
+10263,ERNSH,1994-08-23,Ernst Handel,Austria,1873.8
+10264,FOLKO,1994-08-24,Folk och fä HB,Sweden,695.625
+10265,BLONP,1994-08-25,Blondel père et fils,France,1176
+10266,WARTH,1994-08-26,Wartian Herkku,Finland,346.55999999999995
+10267,FRANK,1994-08-29,Frankenversand,Germany,3536.6
+10268,GROSR,1994-08-30,GROSELLA-Restaurante,Venezuela,1101.2
+10269,WHITC,1994-08-31,White Clover Markets,USA,642.1999999999999
+10270,WARTH,1994-09-01,Wartian Herkku,Finland,1376
+10271,SPLIR,1994-09-01,Split Rail Beer & Ale,USA,48
+10272,RATTC,1994-09-02,Rattlesnake Canyon Grocery,USA,1456
+10273,QUICK,1994-09-05,QUICK-Stop,Germany,2037.2800000000002
+10274,VINET,1994-09-06,Vins et alcools Chevalier,France,538.6
+10275,MAGAA,1994-09-07,Magazzini Alimentari Riuniti,Italy,291.84
+10276,TORTU,1994-09-08,Tortuga Restaurante,Mexico,420
+10277,MORGK,1994-09-09,Morgenstern Gesundkost,Germany,1200.8
+10278,BERGS,1994-09-12,Berglunds snabbköp,Sweden,1488.8
+10279,LEHMS,1994-09-13,Lehmanns Marktstand,Germany,351
+10280,BERGS,1994-09-14,Berglunds snabbköp,Sweden,613.2
+10281,ROMEY,1994-09-14,Romero y tomillo,Spain,86.5
+10282,ROMEY,1994-09-15,Romero y tomillo,Spain,155.39999999999998
+10283,LILAS,1994-09-16,LILA-Supermercado,Venezuela,1414.8000000000002
+10284,LEHMS,1994-09-19,Lehmanns Marktstand,Germany,1170.375
+10285,QUICK,1994-09-20,QUICK-Stop,Germany,1743.36
+10286,QUICK,1994-09-21,QUICK-Stop,Germany,3016
+10287,RICAR,1994-09-22,Ricardo Adocicados,Brazil,818.9999999999999
+10288,REGGC,1994-09-23,Reggiani Caseifici,Italy,80.1
+10289,BSBEV,1994-09-26,B's Beverages,UK,479.4
+10290,COMMI,1994-09-27,Comércio Mineiro,Brazil,2169
+10291,QUEDE,1994-09-27,Que Delícia,Brazil,497.52000000000004
+10292,TRADH,1994-09-28,Tradição Hipermercados,Brazil,1296
+10293,TORTU,1994-09-29,Tortuga Restaurante,Mexico,848.7
+10294,RATTC,1994-09-30,Rattlesnake Canyon Grocery,USA,1887.6000000000001
+10295,VINET,1994-10-03,Vins et alcools Chevalier,France,121.6
+10296,LILAS,1994-10-04,LILA-Supermercado,Venezuela,1050.6
+10297,BLONP,1994-10-05,Blondel père et fils,France,1420
+10298,HUNGO,1994-10-06,Hungry Owl All-Night Grocers,Ireland,2645
+10299,RICAR,1994-10-07,Ricardo Adocicados,Brazil,349.5
+10300,MAGAA,1994-10-10,Magazzini Alimentari Riuniti,Italy,608
+10301,MAGAA,1994-10-10,Magazzini Alimentari Riuniti,Italy,755
+10302,SUPRD,1994-10-11,Suprêmes délices,Belgium,2708.7999999999997
+10303,GODOS,1994-10-12,Godos Cocina Típica,Spain,1117.8000000000002
+10304,TORTU,1994-10-13,Tortuga Restaurante,Mexico,954.4
+10305,OLDWO,1994-10-14,Old World Delicatessen,USA,3741.3
+10306,ROMEY,1994-10-17,Romero y tomillo,Spain,498.5
+10307,LONEP,1994-10-18,Lonesome Pine Restaurant,USA,424
+10308,ANATR,1994-10-19,Ana Trujillo Emparedados y helados,Mexico,88.8
+10309,HUNGO,1994-10-20,Hungry Owl All-Night Grocers,Ireland,1762
+10310,THEBI,1994-10-21,The Big Cheese,USA,336
+10311,DUMON,1994-10-21,Du monde entier,France,268.79999999999995
+10312,WANDK,1994-10-24,Die Wandernde Kuh,Germany,1614.8
+10313,QUICK,1994-10-25,QUICK-Stop,Germany,182.39999999999998
+10314,RATTC,1994-10-26,Rattlesnake Canyon Grocery,USA,2094.3
+10315,ISLAT,1994-10-27,Island Trading,UK,516.8
+10316,RATTC,1994-10-28,Rattlesnake Canyon Grocery,USA,2835
+10317,LONEP,1994-10-31,Lonesome Pine Restaurant,USA,288
+10318,ISLAT,1994-11-01,Island Trading,UK,240.4
+10319,TORTU,1994-11-02,Tortuga Restaurante,Mexico,1191.1999999999998
+10320,WARTH,1994-11-03,Wartian Herkku,Finland,516
+10321,ISLAT,1994-11-03,Island Trading,UK,144
+10322,PERIC,1994-11-04,Pericles Comidas clásicas,Mexico,112
+10323,KOENE,1994-11-07,Königlich Essen,Germany,164.4
+10324,SAVEA,1994-11-08,Save-a-lot Markets,USA,5275.715
+10325,KOENE,1994-11-09,Königlich Essen,Germany,1497
+10326,BOLID,1994-11-10,Bólido Comidas preparadas,Spain,982
+10327,FOLKO,1994-11-11,Folk och fä HB,Sweden,1810
+10328,FURIB,1994-11-14,Furia Bacalhau e Frutos do Mar,Portugal,1168
+10329,SPLIR,1994-11-15,Split Rail Beer & Ale,USA,4578.43
+10330,LILAS,1994-11-16,LILA-Supermercado,Venezuela,1649
+10331,BONAP,1994-11-16,Bon app',France,88.5
+10332,MEREP,1994-11-17,Mère Paillarde,Canada,1786.8799999999999
+10333,WARTH,1994-11-18,Wartian Herkku,Finland,877.2
+10334,VICTE,1994-11-21,Victuailles en stock,France,144.8
+10335,HUNGO,1994-11-22,Hungry Owl All-Night Grocers,Ireland,2036.1599999999999
+10336,PRINI,1994-11-23,Princesa Isabel Vinhos,Portugal,285.12
+10337,FRANK,1994-11-24,Frankenversand,Germany,2467
+10338,OLDWO,1994-11-25,Old World Delicatessen,USA,934.5
+10339,MEREP,1994-11-28,Mère Paillarde,Canada,3354
+10340,BONAP,1994-11-29,Bon app',France,2436.18
+10341,SIMOB,1994-11-29,Simons bistro,Denmark,352.59999999999997
+10342,FRANK,1994-11-30,Frankenversand,Germany,1840.64
+10343,LEHMS,1994-12-01,Lehmanns Marktstand,Germany,1584
+10344,WHITC,1994-12-02,White Clover Markets,USA,2296
+10345,QUICK,1994-12-05,QUICK-Stop,Germany,2924.8
+10346,RATTC,1994-12-06,Rattlesnake Canyon Grocery,USA,1618.88
+10347,FAMIA,1994-12-07,Familia Arquibaldo,Brazil,814.42
+10348,WANDK,1994-12-08,Die Wandernde Kuh,Germany,363.6
+10349,SPLIR,1994-12-09,Split Rail Beer & Ale,USA,141.60000000000002
+10350,LAMAI,1994-12-12,La maison d'Asie,France,642.06
+10351,ERNSH,1994-12-12,Ernst Handel,Austria,5398.725
+10352,FURIB,1994-12-13,Furia Bacalhau e Frutos do Mar,Portugal,136.3
+10353,PICCO,1994-12-14,Piccolo und mehr,Austria,8593.28
+10354,PERIC,1994-12-15,Pericles Comidas clásicas,Mexico,568.8
+10355,AROUT,1994-12-16,Around the Horn,UK,480
+10356,WANDK,1994-12-19,Die Wandernde Kuh,Germany,1106.4
+10357,LILAS,1994-12-20,LILA-Supermercado,Venezuela,1167.68
+10358,LAMAI,1994-12-21,La maison d'Asie,France,429.4
+10359,SEVES,1994-12-22,Seven Seas Imports,UK,3471.68
+10360,BLONP,1994-12-23,Blondel père et fils,France,7390.2
+10361,QUICK,1994-12-23,QUICK-Stop,Germany,2046.2400000000002
+10362,BONAP,1994-12-26,Bon app',France,1549.6
+10363,DRACD,1994-12-27,Drachenblut Delikatessen,Germany,447.2
+10364,EASTC,1994-12-27,Eastern Connection,UK,950
+10365,ANTON,1994-12-28,Antonio Moreno Taquería,Mexico,403.20000000000005
+10366,GALED,1994-12-29,Galería del gastrónomo,Spain,136
+10367,VAFFE,1994-12-29,Vaffeljernet,Denmark,834.1999999999999
+10368,ERNSH,1994-12-30,Ernst Handel,Austria,1689.78
+10369,SPLIR,1995-01-02,Split Rail Beer & Ale,USA,2390.4
+10370,CHOPS,1995-01-03,Chop-suey Chinese,Switzerland,1117.6
+10371,LAMAI,1995-01-03,La maison d'Asie,France,72.96
+10372,QUEEN,1995-01-04,Queen Cozinha,Brazil,9210.900000000001
+10373,HUNGO,1995-01-05,Hungry Owl All-Night Grocers,Ireland,1366.4
+10374,WOLZA,1995-01-05,Wolski  Zajazd,Poland,459
+10375,HUNGC,1995-01-06,Hungry Coyote Import Store,USA,338
+10376,MEREP,1995-01-09,Mère Paillarde,Canada,399
+10377,SEVES,1995-01-09,Seven Seas Imports,UK,863.5999999999999
+10378,FOLKO,1995-01-10,Folk och fä HB,Sweden,103.19999999999999
+10379,QUEDE,1995-01-11,Que Delícia,Brazil,863.2800000000002
+10380,HUNGO,1995-01-12,Hungry Owl All-Night Grocers,Ireland,1313.8200000000002
+10381,LILAS,1995-01-12,LILA-Supermercado,Venezuela,112
+10382,ERNSH,1995-01-13,Ernst Handel,Austria,2900
+10383,AROUT,1995-01-16,Around the Horn,UK,899
+10384,BERGS,1995-01-16,Berglunds snabbköp,Sweden,2222.3999999999996
+10385,SPLIR,1995-01-17,Split Rail Beer & Ale,USA,691.2
+10386,FAMIA,1995-01-18,Familia Arquibaldo,Brazil,166
+10387,SANTG,1995-01-18,Santé Gourmet,Norway,1058.4
+10388,SEVES,1995-01-19,Seven Seas Imports,UK,1228.8
+10389,BOTTM,1995-01-20,Bottom-Dollar Markets,Canada,1832.8
+10390,ERNSH,1995-01-23,Ernst Handel,Austria,2090.88
+10391,DRACD,1995-01-23,Drachenblut Delikatessen,Germany,86.39999999999999
+10392,PICCO,1995-01-24,Piccolo und mehr,Austria,1440
+10393,SAVEA,1995-01-25,Save-a-lot Markets,USA,2556.95
+10394,HUNGC,1995-01-25,Hungry Coyote Import Store,USA,442
+10395,HILAA,1995-01-26,HILARIÓN-Abastos,Venezuela,2122.92
+10396,FRANK,1995-01-27,Frankenversand,Germany,1903.8000000000002
+10397,PRINI,1995-01-27,Princesa Isabel Vinhos,Portugal,716.7199999999999
+10398,SAVEA,1995-01-30,Save-a-lot Markets,USA,2505.6
+10399,VAFFE,1995-01-31,Vaffeljernet,Denmark,1765.6
+10400,EASTC,1995-02-01,Eastern Connection,UK,3063
+10401,RATTC,1995-02-01,Rattlesnake Canyon Grocery,USA,3868.6
+10402,ERNSH,1995-02-02,Ernst Handel,Austria,2713.5
+10403,ERNSH,1995-02-03,Ernst Handel,Austria,855.015
+10404,MAGAA,1995-02-03,Magazzini Alimentari Riuniti,Italy,1591.25
+10405,LINOD,1995-02-06,LINO-Delicateses,Venezuela,400
+10406,QUEEN,1995-02-07,Queen Cozinha,Brazil,1830.7800000000002
+10407,OTTIK,1995-02-07,Ottilies Käseladen,Germany,1194
+10408,FOLIG,1995-02-08,Folies gourmandes,France,1622.4
+10409,OCEAN,1995-02-09,Océano Atlántico Ltda.,Argentina,319.20000000000005
+10410,BOTTM,1995-02-10,Bottom-Dollar Markets,Canada,802
+10411,BOTTM,1995-02-10,Bottom-Dollar Markets,Canada,966.8
+10412,WARTH,1995-02-13,Wartian Herkku,Finland,334.8
+10413,LAMAI,1995-02-14,La maison d'Asie,France,2123.2
+10414,FAMIA,1995-02-14,Familia Arquibaldo,Brazil,224.82999999999998
+10415,HUNGC,1995-02-15,Hungry Coyote Import Store,USA,102.4
+10416,WARTH,1995-02-16,Wartian Herkku,Finland,720
+10417,SIMOB,1995-02-16,Simons bistro,Denmark,11188.4
+10418,QUICK,1995-02-17,QUICK-Stop,Germany,1814.8
+10419,RICSU,1995-02-20,Richter Supermarkt,Switzerland,2097.6
+10420,WELLI,1995-02-21,Wellington Importadora,Brazil,1707.8400000000001
+10421,QUEDE,1995-02-21,Que Delícia,Brazil,1194.2700000000002
+10422,FRANS,1995-02-22,Franchi S.p.A.,Italy,49.8
+10423,GOURL,1995-02-23,Gourmet Lanchonetes,Brazil,1020
+10424,MEREP,1995-02-23,Mère Paillarde,Canada,9194.560000000001
+10425,LAMAI,1995-02-24,La maison d'Asie,France,360
+10426,GALED,1995-02-27,Galería del gastrónomo,Spain,338.20000000000005
+10427,PICCO,1995-02-27,Piccolo und mehr,Austria,651
+10428,REGGC,1995-02-28,Reggiani Caseifici,Italy,192
+10429,HUNGO,1995-03-01,Hungry Owl All-Night Grocers,Ireland,1441.375
+10430,ERNSH,1995-03-02,Ernst Handel,Austria,4899.2
+10431,BOTTM,1995-03-02,Bottom-Dollar Markets,Canada,1892.25
+10432,SPLIR,1995-03-03,Split Rail Beer & Ale,USA,485
+10433,PRINI,1995-03-06,Princesa Isabel Vinhos,Portugal,851.1999999999999
+10434,FOLKO,1995-03-06,Folk och fä HB,Sweden,321.12
+10435,CONSH,1995-03-07,Consolidated Holdings,UK,631.6
+10436,BLONP,1995-03-08,Blondel père et fils,France,1994.5200000000002
+10437,WARTH,1995-03-08,Wartian Herkku,Finland,393
+10438,TOMSP,1995-03-09,Toms Spezialitäten,Germany,454
+10439,MEREP,1995-03-10,Mère Paillarde,Canada,1078
+10440,SAVEA,1995-03-13,Save-a-lot Markets,USA,4924.135
+10441,OLDWO,1995-03-13,Old World Delicatessen,USA,1755
+10442,ERNSH,1995-03-14,Ernst Handel,Austria,1792
+10443,REGGC,1995-03-15,Reggiani Caseifici,Italy,517.4399999999999
+10444,BERGS,1995-03-15,Berglunds snabbköp,Sweden,1031.7
+10445,BERGS,1995-03-16,Berglunds snabbköp,Sweden,174.9
+10446,TOMSP,1995-03-17,Toms Spezialitäten,Germany,246.24
+10447,RICAR,1995-03-17,Ricardo Adocicados,Brazil,914.4
+10448,RANCH,1995-03-20,Rancho grande,Argentina,443.4
+10449,BLONP,1995-03-21,Blondel père et fils,France,1838.2
+10450,VICTE,1995-03-22,Victuailles en stock,France,425.12
+10451,QUICK,1995-03-22,QUICK-Stop,Germany,3849.6600000000003
+10452,SAVEA,1995-03-23,Save-a-lot Markets,USA,2018.5
+10453,AROUT,1995-03-24,Around the Horn,UK,407.70000000000005
+10454,LAMAI,1995-03-24,La maison d'Asie,France,331.20000000000005
+10455,WARTH,1995-03-27,Wartian Herkku,Finland,2684
+10456,KOENE,1995-03-28,Königlich Essen,Germany,557.5999999999999
+10457,KOENE,1995-03-28,Königlich Essen,Germany,1584
+10458,SUPRD,1995-03-29,Suprêmes délices,Belgium,3891
+10459,VICTE,1995-03-30,Victuailles en stock,France,1659.1999999999998
+10460,FOLKO,1995-03-31,Folk och fä HB,Sweden,176.1
+10461,LILAS,1995-03-31,LILA-Supermercado,Venezuela,1538.7
+10462,CONSH,1995-04-03,Consolidated Holdings,UK,156.00000000000003
+10463,SUPRD,1995-04-04,Suprêmes délices,Belgium,713.3
+10464,FURIB,1995-04-04,Furia Bacalhau e Frutos do Mar,Portugal,1609.28
+10465,VAFFE,1995-04-05,Vaffeljernet,Denmark,2518
+10466,COMMI,1995-04-06,Comércio Mineiro,Brazil,216
+10467,MAGAA,1995-04-06,Magazzini Alimentari Riuniti,Italy,235.2
+10468,KOENE,1995-04-07,Königlich Essen,Germany,717.6
+10469,WHITC,1995-04-10,White Clover Markets,USA,956.675
+10470,BONAP,1995-04-11,Bon app',France,1820.8
+10471,BSBEV,1995-04-11,B's Beverages,UK,1328
+10472,SEVES,1995-04-12,Seven Seas Imports,UK,1036.8
+10473,ISLAT,1995-04-13,Island Trading,UK,230.39999999999998
+10474,PERIC,1995-04-13,Pericles Comidas clásicas,Mexico,1249.1
+10475,SUPRD,1995-04-14,Suprêmes délices,Belgium,1505.18
+10476,HILAA,1995-04-17,HILARIÓN-Abastos,Venezuela,180.48
+10477,PRINI,1995-04-17,Princesa Isabel Vinhos,Portugal,558
+10478,VICTE,1995-04-18,Victuailles en stock,France,471.2
+10479,RATTC,1995-04-19,Rattlesnake Canyon Grocery,USA,10495.6
+10480,FOLIG,1995-04-20,Folies gourmandes,France,756
+10481,RICAR,1995-04-20,Ricardo Adocicados,Brazil,1472
+10482,LAZYK,1995-04-21,Lazy K Kountry Store,USA,147
+10483,WHITC,1995-04-24,White Clover Markets,USA,668.8
+10484,BSBEV,1995-04-24,B's Beverages,UK,386.2
+10485,LINOD,1995-04-25,LINO-Delicateses,Venezuela,1584
+10486,HILAA,1995-04-26,HILARIÓN-Abastos,Venezuela,1272
+10487,QUEEN,1995-04-26,Queen Cozinha,Brazil,889.7
+10488,FRANK,1995-04-27,Frankenversand,Germany,1512
+10489,PICCO,1995-04-28,Piccolo und mehr,Austria,439.20000000000005
+10490,HILAA,1995-05-01,HILARIÓN-Abastos,Venezuela,3163.2
+10491,FURIB,1995-05-01,Furia Bacalhau e Frutos do Mar,Portugal,259.505
+10492,BOTTM,1995-05-02,Bottom-Dollar Markets,Canada,851.1999999999999
+10493,LAMAI,1995-05-03,La maison d'Asie,France,608.4000000000001
+10494,COMMI,1995-05-03,Comércio Mineiro,Brazil,912
+10495,LAUGB,1995-05-04,Laughing Bacchus Wine Cellars,Canada,278
+10496,TRADH,1995-05-05,Tradição Hipermercados,Brazil,190
+10497,LEHMS,1995-05-05,Lehmanns Marktstand,Germany,1380.6
+10498,HILAA,1995-05-08,HILARIÓN-Abastos,Venezuela,575
+10499,LILAS,1995-05-09,LILA-Supermercado,Venezuela,1412
+10500,LAMAI,1995-05-10,La maison d'Asie,France,523.26
+10501,BLAUS,1995-05-10,Blauer See Delikatessen,Germany,149
+10502,PERIC,1995-05-11,Pericles Comidas clásicas,Mexico,816.3
+10503,HUNGO,1995-05-12,Hungry Owl All-Night Grocers,Ireland,2048.5
+10504,WHITC,1995-05-12,White Clover Markets,USA,1388.5
+10505,MEREP,1995-05-15,Mère Paillarde,Canada,147.89999999999998
+10506,KOENE,1995-05-16,Königlich Essen,Germany,415.8
+10507,ANTON,1995-05-16,Antonio Moreno Taquería,Mexico,749.0625
+10508,OTTIK,1995-05-17,Ottilies Käseladen,Germany,240
+10509,BLAUS,1995-05-18,Blauer See Delikatessen,Germany,136.8
+10510,SAVEA,1995-05-19,Save-a-lot Markets,USA,4707.540000000001
+10511,BONAP,1995-05-19,Bon app',France,2550
+10512,FAMIA,1995-05-22,Familia Arquibaldo,Brazil,525.3
+10513,WANDK,1995-05-23,Die Wandernde Kuh,Germany,1942
+10514,ERNSH,1995-05-23,Ernst Handel,Austria,8623.45
+10515,QUICK,1995-05-24,QUICK-Stop,Germany,9921.3
+10516,HUNGO,1995-05-25,Hungry Owl All-Night Grocers,Ireland,2381.05
+10517,NORTS,1995-05-25,North/South,UK,352
+10518,TORTU,1995-05-26,Tortuga Restaurante,Mexico,4150.05
+10519,CHOPS,1995-05-29,Chop-suey Chinese,Switzerland,2314.2
+10520,SANTG,1995-05-30,Santé Gourmet,Norway,200
+10521,CACTU,1995-05-30,Cactus Comidas para llevar,Argentina,225.5
+10522,LEHMS,1995-05-31,Lehmanns Marktstand,Germany,2318.24
+10523,SEVES,1995-06-01,Seven Seas Imports,UK,2444.31
+10524,BERGS,1995-06-01,Berglunds snabbköp,Sweden,3192.65
+10525,BONAP,1995-06-02,Bon app',France,818.4
+10526,WARTH,1995-06-05,Wartian Herkku,Finland,1151.4
+10527,QUICK,1995-06-05,QUICK-Stop,Germany,1503
+10528,GREAL,1995-06-06,Great Lakes Food Market,USA,392.2
+10529,MAISD,1995-06-07,Maison Dewey,Belgium,946
+10530,PICCO,1995-06-08,Piccolo und mehr,Austria,4180
+10531,OCEAN,1995-06-08,Océano Atlántico Ltda.,Argentina,110
+10532,EASTC,1995-06-09,Eastern Connection,UK,796.35
+10533,FOLKO,1995-06-12,Folk och fä HB,Sweden,2222.2
+10534,LEHMS,1995-06-12,Lehmanns Marktstand,Germany,465.70000000000005
+10535,ANTON,1995-06-13,Antonio Moreno Taquería,Mexico,1940.85
+10536,LEHMS,1995-06-14,Lehmanns Marktstand,Germany,1645
+10537,RICSU,1995-06-14,Richter Supermarkt,Switzerland,1823.8
+10538,BSBEV,1995-06-15,B's Beverages,UK,139.8
+10539,BSBEV,1995-06-16,B's Beverages,UK,355.5
+10540,QUICK,1995-06-19,QUICK-Stop,Germany,10191.7
+10541,HANAR,1995-06-19,Hanari Carnes,Brazil,1946.52
+10542,KOENE,1995-06-20,Königlich Essen,Germany,469.11
+10543,LILAS,1995-06-21,LILA-Supermercado,Venezuela,1504.5
+10544,LONEP,1995-06-21,Lonesome Pine Restaurant,USA,417.2
+10545,LAZYK,1995-06-22,Lazy K Kountry Store,USA,210
+10546,VICTE,1995-06-23,Victuailles en stock,France,2812
+10547,SEVES,1995-06-23,Seven Seas Imports,UK,1792.8
+10548,TOMSP,1995-06-26,Toms Spezialitäten,Germany,240.1
+10549,QUICK,1995-06-27,QUICK-Stop,Germany,3554.275
+10550,GODOS,1995-06-28,Godos Cocina Típica,Spain,683.3
+10551,FURIB,1995-06-28,Furia Bacalhau e Frutos do Mar,Portugal,1677.3
+10552,HILAA,1995-06-29,HILARIÓN-Abastos,Venezuela,880.5
+10553,WARTH,1995-06-30,Wartian Herkku,Finland,1546.3
+10554,OTTIK,1995-06-30,Ottilies Käseladen,Germany,1728.525
+10555,SAVEA,1995-07-03,Save-a-lot Markets,USA,2944.4
+10556,SIMOB,1995-07-04,Simons bistro,Denmark,835.1999999999999
+10557,LEHMS,1995-07-04,Lehmanns Marktstand,Germany,1152.5
+10558,AROUT,1995-07-05,Around the Horn,UK,2142.9
+10559,BLONP,1995-07-06,Blondel père et fils,France,520.41
+10560,FRANK,1995-07-07,Frankenversand,Germany,1072.425
+10561,FOLKO,1995-07-07,Folk och fä HB,Sweden,2844.5
+10562,REGGC,1995-07-10,Reggiani Caseifici,Italy,488.7
+10563,RICAR,1995-07-11,Ricardo Adocicados,Brazil,965
+10564,RATTC,1995-07-11,Rattlesnake Canyon Grocery,USA,1234.05
+10565,MEREP,1995-07-12,Mère Paillarde,Canada,639.9
+10566,BLONP,1995-07-13,Blondel père et fils,France,1761
+10567,HUNGO,1995-07-13,Hungry Owl All-Night Grocers,Ireland,2519
+10568,GALED,1995-07-14,Galería del gastrónomo,Spain,155
+10569,RATTC,1995-07-17,Rattlesnake Canyon Grocery,USA,890
+10570,MEREP,1995-07-18,Mère Paillarde,Canada,2465.25
+10571,ERNSH,1995-07-18,Ernst Handel,Austria,550.5875
+10572,BERGS,1995-07-19,Berglunds snabbköp,Sweden,1501.0849999999998
+10573,ANTON,1995-07-20,Antonio Moreno Taquería,Mexico,2082
+10574,TRAIH,1995-07-20,Trail's Head Gourmet Provisioners,USA,764.3
+10575,MORGK,1995-07-21,Morgenstern Gesundkost,Germany,2147.4
+10576,TORTU,1995-07-24,Tortuga Restaurante,Mexico,838.45
+10577,TRAIH,1995-07-24,Trail's Head Gourmet Provisioners,USA,569
+10578,BSBEV,1995-07-25,B's Beverages,UK,477
+10579,LETSS,1995-07-26,Let's Stop N Shop,USA,317.75
+10580,OTTIK,1995-07-27,Ottilies Käseladen,Germany,1013.7449999999999
+10581,FAMIA,1995-07-27,Familia Arquibaldo,Brazil,310
+10582,BLAUS,1995-07-28,Blauer See Delikatessen,Germany,330
+10583,WARTH,1995-07-31,Wartian Herkku,Finland,2237.5
+10584,BLONP,1995-07-31,Blondel père et fils,France,593.75
+10585,WELLI,1995-08-01,Wellington Importadora,Brazil,142.5
+10586,REGGC,1995-08-02,Reggiani Caseifici,Italy,23.8
+10587,QUEDE,1995-08-02,Que Delícia,Brazil,807.38
+10588,QUICK,1995-08-03,QUICK-Stop,Germany,3120
+10589,GREAL,1995-08-04,Great Lakes Food Market,USA,72
+10590,MEREP,1995-08-07,Mère Paillarde,Canada,1101
+10591,VAFFE,1995-08-07,Vaffeljernet,Denmark,812.5
+10592,LEHMS,1995-08-08,Lehmanns Marktstand,Germany,516.4675
+10593,LEHMS,1995-08-09,Lehmanns Marktstand,Germany,1994.4
+10594,OLDWO,1995-08-09,Old World Delicatessen,USA,565.5
+10595,ERNSH,1995-08-10,Ernst Handel,Austria,4725
+10596,WHITC,1995-08-11,White Clover Markets,USA,1180.88
+10597,PICCO,1995-08-11,Piccolo und mehr,Austria,718.08
+10598,RATTC,1995-08-14,Rattlesnake Canyon Grocery,USA,2388.5
+10599,BSBEV,1995-08-15,B's Beverages,UK,493
+10600,HUNGC,1995-08-16,Hungry Coyote Import Store,USA,479.8
+10601,HILAA,1995-08-16,HILARIÓN-Abastos,Venezuela,2285
+10602,VAFFE,1995-08-17,Vaffeljernet,Denmark,48.75
+10603,SAVEA,1995-08-18,Save-a-lot Markets,USA,1483
+10604,FURIB,1995-08-18,Furia Bacalhau e Frutos do Mar,Portugal,230.85000000000002
+10605,MEREP,1995-08-21,Mère Paillarde,Canada,4109.7
+10606,TRADH,1995-08-22,Tradição Hipermercados,Brazil,1130.4
+10607,SAVEA,1995-08-22,Save-a-lot Markets,USA,6475.400000000001
+10608,TOMSP,1995-08-23,Toms Spezialitäten,Germany,1064
+10609,DUMON,1995-08-24,Du monde entier,France,424
+10610,LAMAI,1995-08-25,La maison d'Asie,France,299.25
+10611,WOLZA,1995-08-25,Wolski  Zajazd,Poland,808
+10612,SAVEA,1995-08-28,Save-a-lot Markets,USA,6375
+10613,HILAA,1995-08-29,HILARIÓN-Abastos,Venezuela,353.2
+10614,BLAUS,1995-08-29,Blauer See Delikatessen,Germany,464
+10615,WILMK,1995-08-30,Wilman Kala,Finland,120
+10616,GREAL,1995-08-31,Great Lakes Food Market,USA,4807
+10617,GREAL,1995-08-31,Great Lakes Food Market,USA,1402.5
+10618,MEREP,1995-09-01,Mère Paillarde,Canada,2697.5
+10619,MEREP,1995-09-04,Mère Paillarde,Canada,1260
+10620,LAUGB,1995-09-05,Laughing Bacchus Wine Cellars,Canada,57.5
+10621,ISLAT,1995-09-05,Island Trading,UK,758.5
+10622,RICAR,1995-09-06,Ricardo Adocicados,Brazil,560
+10623,FRANK,1995-09-07,Frankenversand,Germany,1336.95
+10624,THECR,1995-09-07,The Cracker Box,USA,1393.24
+10625,ANATR,1995-09-08,Ana Trujillo Emparedados y helados,Mexico,479.75
+10626,BERGS,1995-09-11,Berglunds snabbköp,Sweden,1503.6
+10627,SAVEA,1995-09-11,Save-a-lot Markets,USA,1185.75
+10628,BLONP,1995-09-12,Blondel père et fils,France,450
+10629,GODOS,1995-09-12,Godos Cocina Típica,Spain,2775.05
+10630,KOENE,1995-09-13,Königlich Essen,Germany,903.5999999999999
+10631,LAMAI,1995-09-14,La maison d'Asie,France,55.800000000000004
+10632,WANDK,1995-09-14,Die Wandernde Kuh,Germany,589
+10633,ERNSH,1995-09-15,Ernst Handel,Austria,5510.592500000001
+10634,FOLIG,1995-09-15,Folies gourmandes,France,4985.5
+10635,MAGAA,1995-09-18,Magazzini Alimentari Riuniti,Italy,1326.225
+10636,WARTH,1995-09-19,Wartian Herkku,Finland,629.5
+10637,QUEEN,1995-09-19,Queen Cozinha,Brazil,2761.9375
+10638,LINOD,1995-09-20,LINO-Delicateses,Venezuela,2720.05
+10639,SANTG,1995-09-20,Santé Gourmet,Norway,500
+10640,WANDK,1995-09-21,Die Wandernde Kuh,Germany,708.75
+10641,HILAA,1995-09-22,HILARIÓN-Abastos,Venezuela,2054
+10642,SIMOB,1995-09-22,Simons bistro,Denmark,696
+10643,ALFKI,1995-09-25,Alfreds Futterkiste,Germany,814.5
+10644,WELLI,1995-09-25,Wellington Importadora,Brazil,1371.8
+10645,HANAR,1995-09-26,Hanari Carnes,Brazil,1535
+10646,HUNGO,1995-09-27,Hungry Owl All-Night Grocers,Ireland,1446
+10647,QUEDE,1995-09-27,Que Delícia,Brazil,636
+10648,RICAR,1995-09-28,Ricardo Adocicados,Brazil,372.375
+10649,MAISD,1995-09-28,Maison Dewey,Belgium,1434
+10650,FAMIA,1995-09-29,Familia Arquibaldo,Brazil,1779.1999999999998
+10651,WANDK,1995-10-02,Die Wandernde Kuh,Germany,397.8
+10652,GOURL,1995-10-02,Gourmet Lanchonetes,Brazil,318.835
+10653,FRANK,1995-10-03,Frankenversand,Germany,1083.15
+10654,BERGS,1995-10-03,Berglunds snabbköp,Sweden,601.83
+10655,REGGC,1995-10-04,Reggiani Caseifici,Italy,154.4
+10656,GREAL,1995-10-05,Great Lakes Food Market,USA,604.215
+10657,SAVEA,1995-10-05,Save-a-lot Markets,USA,4371.6
+10658,QUICK,1995-10-06,QUICK-Stop,Germany,4464.6
+10659,QUEEN,1995-10-06,Queen Cozinha,Brazil,1227.02
+10660,HUNGC,1995-10-09,Hungry Coyote Import Store,USA,1701
+10661,HUNGO,1995-10-10,Hungry Owl All-Night Grocers,Ireland,562.6
+10662,LONEP,1995-10-10,Lonesome Pine Restaurant,USA,125
+10663,BONAP,1995-10-11,Bon app',France,1930.4
+10664,FURIB,1995-10-11,Furia Bacalhau e Frutos do Mar,Portugal,1288.3875
+10665,LONEP,1995-10-12,Lonesome Pine Restaurant,USA,1295
+10666,RICSU,1995-10-13,Richter Supermarkt,Switzerland,4666.9400000000005
+10667,ERNSH,1995-10-13,Ernst Handel,Austria,1536.8
+10668,WANDK,1995-10-16,Die Wandernde Kuh,Germany,625.275
+10669,SIMOB,1995-10-16,Simons bistro,Denmark,570
+10670,FRANK,1995-10-17,Frankenversand,Germany,2301.75
+10671,FRANR,1995-10-18,France restauration,France,920.1
+10672,BERGS,1995-10-18,Berglunds snabbköp,Sweden,3815.25
+10673,WILMK,1995-10-19,Wilman Kala,Finland,412.35
+10674,ISLAT,1995-10-19,Island Trading,UK,45
+10675,FRANK,1995-10-20,Frankenversand,Germany,1423
+10676,TORTU,1995-10-23,Tortuga Restaurante,Mexico,534.85
+10677,ANTON,1995-10-23,Antonio Moreno Taquería,Mexico,813.365
+10678,SAVEA,1995-10-24,Save-a-lot Markets,USA,5256.5
+10679,BLONP,1995-10-24,Blondel père et fils,France,660
+10680,OLDWO,1995-10-25,Old World Delicatessen,USA,1261.875
+10681,GREAL,1995-10-26,Great Lakes Food Market,USA,1287.4
+10682,ANTON,1995-10-26,Antonio Moreno Taquería,Mexico,375.5
+10683,DUMON,1995-10-27,Du monde entier,France,63
+10684,OTTIK,1995-10-27,Ottilies Käseladen,Germany,1768
+10685,GOURL,1995-10-30,Gourmet Lanchonetes,Brazil,801.1
+10686,PICCO,1995-10-31,Piccolo und mehr,Austria,1404.45
+10687,HUNGO,1995-10-31,Hungry Owl All-Night Grocers,Ireland,4960.9
+10688,VAFFE,1995-11-01,Vaffeljernet,Denmark,3160.6
+10689,BERGS,1995-11-01,Berglunds snabbköp,Sweden,472.5
+10690,HANAR,1995-11-02,Hanari Carnes,Brazil,862.5
+10691,QUICK,1995-11-03,QUICK-Stop,Germany,10164.8
+10692,ALFKI,1995-11-03,Alfreds Futterkiste,Germany,878
+10693,WHITC,1995-11-06,White Clover Markets,USA,2071.2
+10694,QUICK,1995-11-06,QUICK-Stop,Germany,4825
+10695,WILMK,1995-11-07,Wilman Kala,Finland,642
+10696,WHITC,1995-11-08,White Clover Markets,USA,996
+10697,LINOD,1995-11-08,LINO-Delicateses,Venezuela,805.425
+10698,ERNSH,1995-11-09,Ernst Handel,Austria,3436.4434999999994
+10699,MORGK,1995-11-09,Morgenstern Gesundkost,Germany,114
+10700,SAVEA,1995-11-10,Save-a-lot Markets,USA,1638.4
+10701,HUNGO,1995-11-13,Hungry Owl All-Night Grocers,Ireland,2864.5
+10702,ALFKI,1995-11-13,Alfreds Futterkiste,Germany,330
+10703,FOLKO,1995-11-14,Folk och fä HB,Sweden,2545
+10704,QUEEN,1995-11-14,Queen Cozinha,Brazil,595.5
+10705,HILAA,1995-11-15,HILARIÓN-Abastos,Venezuela,378
+10706,OLDWO,1995-11-16,Old World Delicatessen,USA,1893
+10707,AROUT,1995-11-16,Around the Horn,UK,1641
+10708,THEBI,1995-11-17,The Big Cheese,USA,180.4
+10709,GOURL,1995-11-17,Gourmet Lanchonetes,Brazil,3424
+10710,FRANS,1995-11-20,Franchi S.p.A.,Italy,93.5
+10711,SAVEA,1995-11-21,Save-a-lot Markets,USA,4451.7
+10712,HUNGO,1995-11-21,Hungry Owl All-Night Grocers,Ireland,1233.48
+10713,SAVEA,1995-11-22,Save-a-lot Markets,USA,2827.9
+10714,SAVEA,1995-11-22,Save-a-lot Markets,USA,2205.75
+10715,BONAP,1995-11-23,Bon app',France,1296
+10716,RANCH,1995-11-24,Rancho grande,Argentina,706
+10717,FRANK,1995-11-24,Frankenversand,Germany,1270.75
+10718,KOENE,1995-11-27,Königlich Essen,Germany,3463
+10719,LETSS,1995-11-27,Let's Stop N Shop,USA,844.2525
+10720,QUEDE,1995-11-28,Que Delícia,Brazil,550
+10721,QUICK,1995-11-29,QUICK-Stop,Germany,923.875
+10722,SAVEA,1995-11-29,Save-a-lot Markets,USA,1570
+10723,WHITC,1995-11-30,White Clover Markets,USA,468.45
+10724,MEREP,1995-11-30,Mère Paillarde,Canada,638.5
+10725,FAMIA,1995-12-01,Familia Arquibaldo,Brazil,287.8
+10726,EASTC,1995-12-04,Eastern Connection,UK,655
+10727,REGGC,1995-12-04,Reggiani Caseifici,Italy,1624.5
+10728,QUEEN,1995-12-05,Queen Cozinha,Brazil,1296.75
+10729,LINOD,1995-12-05,LINO-Delicateses,Venezuela,1850
+10730,BONAP,1995-12-06,Bon app',France,484.26250000000005
+10731,CHOPS,1995-12-07,Chop-suey Chinese,Switzerland,1890.5
+10732,BONAP,1995-12-07,Bon app',France,360
+10733,BERGS,1995-12-08,Berglunds snabbköp,Sweden,1459
+10734,GOURL,1995-12-08,Gourmet Lanchonetes,Brazil,1498.35
+10735,LETSS,1995-12-11,Let's Stop N Shop,USA,536.4
+10736,HUNGO,1995-12-12,Hungry Owl All-Night Grocers,Ireland,997
+10737,VINET,1995-12-12,Vins et alcools Chevalier,France,139.8
+10738,SPECD,1995-12-13,Spécialités du monde,France,52.349999999999994
+10739,VINET,1995-12-13,Vins et alcools Chevalier,France,240
+10740,WHITC,1995-12-14,White Clover Markets,USA,1416
+10741,AROUT,1995-12-15,Around the Horn,UK,228
+10742,BOTTM,1995-12-15,Bottom-Dollar Markets,Canada,3118
+10743,AROUT,1995-12-18,Around the Horn,UK,319.2
+10744,VAFFE,1995-12-18,Vaffeljernet,Denmark,736
+10745,QUICK,1995-12-19,QUICK-Stop,Germany,4529.8
+10746,CHOPS,1995-12-20,Chop-suey Chinese,Switzerland,2311.7
+10747,PICCO,1995-12-20,Piccolo und mehr,Austria,1912.85
+10748,SAVEA,1995-12-21,Save-a-lot Markets,USA,2196
+10749,ISLAT,1995-12-21,Island Trading,UK,1080
+10750,WARTH,1995-12-22,Wartian Herkku,Finland,1590.5625
+10751,RICSU,1995-12-25,Richter Supermarkt,Switzerland,1631.484
+10752,NORTS,1995-12-25,North/South,UK,252
+10753,FRANS,1995-12-26,Franchi S.p.A.,Italy,88
+10754,MAGAA,1995-12-26,Magazzini Alimentari Riuniti,Italy,55.199999999999996
+10755,BONAP,1995-12-27,Bon app',France,1948.5
+10756,SPLIR,1995-12-28,Split Rail Beer & Ale,USA,1990
+10757,SAVEA,1995-12-28,Save-a-lot Markets,USA,3082
+10758,RICSU,1995-12-29,Richter Supermarkt,Switzerland,1644.6
+10759,ANATR,1995-12-29,Ana Trujillo Emparedados y helados,Mexico,320
+10760,MAISD,1996-01-01,Maison Dewey,Belgium,2917
+10761,RATTC,1996-01-02,Rattlesnake Canyon Grocery,USA,507
+10762,FOLKO,1996-01-02,Folk och fä HB,Sweden,4337
+10763,FOLIG,1996-01-03,Folies gourmandes,France,616
+10764,ERNSH,1996-01-03,Ernst Handel,Austria,2286
+10765,QUICK,1996-01-04,QUICK-Stop,Germany,1515.6000000000001
+10766,OTTIK,1996-01-05,Ottilies Käseladen,Germany,2310
+10767,SUPRD,1996-01-05,Suprêmes délices,Belgium,28
+10768,AROUT,1996-01-08,Around the Horn,UK,1477
+10769,VAFFE,1996-01-08,Vaffeljernet,Denmark,1684.275
+10770,HANAR,1996-01-09,Hanari Carnes,Brazil,236.25
+10771,ERNSH,1996-01-10,Ernst Handel,Austria,344
+10772,LEHMS,1996-01-10,Lehmanns Marktstand,Germany,3603.2200000000003
+10773,ERNSH,1996-01-11,Ernst Handel,Austria,2030.4
+10774,FOLKO,1996-01-11,Folk och fä HB,Sweden,868.75
+10775,THECR,1996-01-12,The Cracker Box,USA,228
+10776,ERNSH,1996-01-15,Ernst Handel,Austria,6635.275
+10777,GOURL,1996-01-15,Gourmet Lanchonetes,Brazil,224
+10778,BERGS,1996-01-16,Berglunds snabbköp,Sweden,96.5
+10779,MORGK,1996-01-16,Morgenstern Gesundkost,Germany,1335
+10780,LILAS,1996-01-16,LILA-Supermercado,Venezuela,720
+10781,WARTH,1996-01-17,Wartian Herkku,Finland,975.88
+10782,CACTU,1996-01-17,Cactus Comidas para llevar,Argentina,12.5
+10783,HANAR,1996-01-18,Hanari Carnes,Brazil,1442.5
+10784,MAGAA,1996-01-18,Magazzini Alimentari Riuniti,Italy,1488
+10785,GROSR,1996-01-18,GROSELLA-Restaurante,Venezuela,387.5
+10786,QUEEN,1996-01-19,Queen Cozinha,Brazil,1531.0800000000002
+10787,LAMAI,1996-01-19,La maison d'Asie,France,2622.76
+10788,QUICK,1996-01-22,QUICK-Stop,Germany,731.5
+10789,FOLIG,1996-01-22,Folies gourmandes,France,3687
+10790,GOURL,1996-01-22,Gourmet Lanchonetes,Brazil,722.5
+10791,FRANK,1996-01-23,Frankenversand,Germany,1829.757
+10792,WOLZA,1996-01-23,Wolski  Zajazd,Poland,399.85
+10793,AROUT,1996-01-24,Around the Horn,UK,191.1
+10794,QUEDE,1996-01-24,Que Delícia,Brazil,314.76
+10795,ERNSH,1996-01-24,Ernst Handel,Austria,2158
+10796,HILAA,1996-01-25,HILARIÓN-Abastos,Venezuela,2341.3640000000005
+10797,DRACD,1996-01-25,Drachenblut Delikatessen,Germany,420
+10798,ISLAT,1996-01-26,Island Trading,UK,446.6
+10799,KOENE,1996-01-26,Königlich Essen,Germany,1553.5
+10800,SEVES,1996-01-26,Seven Seas Imports,UK,1468.935
+10801,BOLID,1996-01-29,Bólido Comidas preparadas,Spain,3026.8500000000004
+10802,SIMOB,1996-01-29,Simons bistro,Denmark,2942.8125
+10803,WELLI,1996-01-30,Wellington Importadora,Brazil,1193.01
+10804,SEVES,1996-01-30,Seven Seas Imports,UK,2278.4
+10805,THEBI,1996-01-30,The Big Cheese,USA,2775
+10806,VICTE,1996-01-31,Victuailles en stock,France,439.6
+10807,FRANS,1996-01-31,Franchi S.p.A.,Italy,18.4
+10808,OLDWO,1996-02-01,Old World Delicatessen,USA,1411
+10809,WELLI,1996-02-01,Wellington Importadora,Brazil,140
+10810,LAUGB,1996-02-01,Laughing Bacchus Wine Cellars,Canada,187
+10811,LINOD,1996-02-02,LINO-Delicateses,Venezuela,852
+10812,REGGC,1996-02-02,Reggiani Caseifici,Italy,1692.8
+10813,RICAR,1996-02-05,Ricardo Adocicados,Brazil,602.4
+10814,VICTE,1996-02-05,Victuailles en stock,France,1788.45
+10815,SAVEA,1996-02-05,Save-a-lot Markets,USA,40
+10816,GREAL,1996-02-06,Great Lakes Food Market,USA,8446.45
+10817,KOENE,1996-02-06,Königlich Essen,Germany,10952.845
+10818,MAGAA,1996-02-07,Magazzini Alimentari Riuniti,Italy,833
+10819,CACTU,1996-02-07,Cactus Comidas para llevar,Argentina,477
+10820,RATTC,1996-02-07,Rattlesnake Canyon Grocery,USA,1140
+10821,SPLIR,1996-02-08,Split Rail Beer & Ale,USA,678
+10822,TRAIH,1996-02-08,Trail's Head Gourmet Provisioners,USA,237.89999999999998
+10823,LILAS,1996-02-09,LILA-Supermercado,Venezuela,2826
+10824,FOLKO,1996-02-09,Folk och fä HB,Sweden,250.8
+10825,DRACD,1996-02-09,Drachenblut Delikatessen,Germany,1030.76
+10826,BLONP,1996-02-12,Blondel père et fils,France,730
+10827,BONAP,1996-02-12,Bon app',France,843
+10828,RANCH,1996-02-13,Rancho grande,Argentina,932
+10829,ISLAT,1996-02-13,Island Trading,UK,1764
+10830,TRADH,1996-02-13,Tradição Hipermercados,Brazil,1974
+10831,SANTG,1996-02-14,Santé Gourmet,Norway,2684.4
+10832,LAMAI,1996-02-14,La maison d'Asie,France,475.11
+10833,OTTIK,1996-02-15,Ottilies Käseladen,Germany,906.9300000000001
+10834,TRADH,1996-02-15,Tradição Hipermercados,Brazil,1432.714
+10835,ALFKI,1996-02-15,Alfreds Futterkiste,Germany,845.8
+10836,ERNSH,1996-02-16,Ernst Handel,Austria,4705.5
+10837,BERGS,1996-02-16,Berglunds snabbköp,Sweden,1064.5
+10838,LINOD,1996-02-19,LINO-Delicateses,Venezuela,1938.375
+10839,TRADH,1996-02-19,Tradição Hipermercados,Brazil,827.55
+10840,LINOD,1996-02-19,LINO-Delicateses,Venezuela,211.2
+10841,SUPRD,1996-02-20,Suprêmes délices,Belgium,4581
+10842,TORTU,1996-02-20,Tortuga Restaurante,Mexico,975
+10843,VICTE,1996-02-21,Victuailles en stock,France,159
+10844,PICCO,1996-02-21,Piccolo und mehr,Austria,735
+10845,QUICK,1996-02-21,QUICK-Stop,Germany,3812.7
+10846,SUPRD,1996-02-22,Suprêmes délices,Belgium,1112
+10847,SAVEA,1996-02-22,Save-a-lot Markets,USA,4931.92
+10848,CONSH,1996-02-23,Consolidated Holdings,UK,931.5
+10849,KOENE,1996-02-23,Königlich Essen,Germany,967.819
+10850,VICTE,1996-02-23,Victuailles en stock,France,629
+10851,RICAR,1996-02-26,Ricardo Adocicados,Brazil,2603
+10852,RATTC,1996-02-26,Rattlesnake Canyon Grocery,USA,2984
+10853,BLAUS,1996-02-27,Blauer See Delikatessen,Germany,625
+10854,ERNSH,1996-02-27,Ernst Handel,Austria,2966.5
+10855,OLDWO,1996-02-27,Old World Delicatessen,USA,2227.8875
+10856,ANTON,1996-02-28,Antonio Moreno Taquería,Mexico,660
+10857,BERGS,1996-02-28,Berglunds snabbköp,Sweden,2048.2125
+10858,LACOR,1996-02-29,La corne d'abondance,France,649
+10859,FRANK,1996-02-29,Frankenversand,Germany,1078.6875
+10860,FRANR,1996-02-29,France restauration,France,519
+10861,WHITC,1996-03-01,White Clover Markets,USA,3523.4
+10862,LEHMS,1996-03-01,Lehmanns Marktstand,Germany,581
+10863,HILAA,1996-03-04,HILARIÓN-Abastos,Venezuela,441.15
+10864,AROUT,1996-03-04,Around the Horn,UK,282
+10865,QUICK,1996-03-04,QUICK-Stop,Germany,16387.5
+10866,BERGS,1996-03-05,Berglunds snabbköp,Sweden,1096.1999999999998
+10867,LONEP,1996-03-05,Lonesome Pine Restaurant,USA,98.39999999999999
+10868,QUEEN,1996-03-06,Queen Cozinha,Brazil,1920.6
+10869,SEVES,1996-03-06,Seven Seas Imports,UK,1630
+10870,WOLZA,1996-03-06,Wolski  Zajazd,Poland,160
+10871,BONAP,1996-03-07,Bon app',France,1979.23
+10872,GODOS,1996-03-07,Godos Cocina Típica,Spain,2058.46
+10873,WILMK,1996-03-08,Wilman Kala,Finland,336.8
+10874,GODOS,1996-03-08,Godos Cocina Típica,Spain,310
+10875,BERGS,1996-03-08,Berglunds snabbköp,Sweden,709.55
+10876,BONAP,1996-03-11,Bon app',France,917
+10877,RICAR,1996-03-11,Ricardo Adocicados,Brazil,1955.125
+10878,QUICK,1996-03-12,QUICK-Stop,Germany,1539
+10879,WILMK,1996-03-12,Wilman Kala,Finland,611.3
+10880,FOLKO,1996-03-12,Folk och fä HB,Sweden,1500
+10881,CACTU,1996-03-13,Cactus Comidas para llevar,Argentina,150
+10882,SAVEA,1996-03-13,Save-a-lot Markets,USA,892.64
+10883,LONEP,1996-03-14,Lonesome Pine Restaurant,USA,36
+10884,LETSS,1996-03-14,Let's Stop N Shop,USA,1378.07
+10885,SUPRD,1996-03-14,Suprêmes délices,Belgium,1209
+10886,HANAR,1996-03-15,Hanari Carnes,Brazil,3127.5
+10887,GALED,1996-03-15,Galería del gastrónomo,Spain,70
+10888,GODOS,1996-03-18,Godos Cocina Típica,Spain,605
+10889,RATTC,1996-03-18,Rattlesnake Canyon Grocery,USA,11380
+10890,DUMON,1996-03-18,Du monde entier,France,860.1
+10891,LEHMS,1996-03-19,Lehmanns Marktstand,Germany,368.9325
+10892,MAISD,1996-03-19,Maison Dewey,Belgium,2090
+10893,KOENE,1996-03-20,Königlich Essen,Germany,5502.11
+10894,SAVEA,1996-03-20,Save-a-lot Markets,USA,2753.1
+10895,ERNSH,1996-03-20,Ernst Handel,Austria,6379.4
+10896,MAISD,1996-03-21,Maison Dewey,Belgium,750.5
+10897,HUNGO,1996-03-21,Hungry Owl All-Night Grocers,Ireland,10835.240000000002
+10898,OCEAN,1996-03-22,Océano Atlántico Ltda.,Argentina,30
+10899,LILAS,1996-03-22,LILA-Supermercado,Venezuela,122.39999999999999
+10900,WELLI,1996-03-22,Wellington Importadora,Brazil,33.75
+10901,HILAA,1996-03-25,HILARIÓN-Abastos,Venezuela,934.5
+10902,FOLKO,1996-03-25,Folk och fä HB,Sweden,863.43
+10903,HANAR,1996-03-26,Hanari Carnes,Brazil,932.05
+10904,WHITC,1996-03-26,White Clover Markets,USA,1924.25
+10905,WELLI,1996-03-26,Wellington Importadora,Brazil,342
+10906,WOLZA,1996-03-27,Wolski  Zajazd,Poland,427.5
+10907,SPECD,1996-03-27,Spécialités du monde,France,108.5
+10908,REGGC,1996-03-28,Reggiani Caseifici,Italy,663.1
+10909,SANTG,1996-03-28,Santé Gourmet,Norway,670
+10910,WILMK,1996-03-28,Wilman Kala,Finland,452.9
+10911,GODOS,1996-03-28,Godos Cocina Típica,Spain,858
+10912,HUNGO,1996-03-28,Hungry Owl All-Night Grocers,Ireland,6200.55
+10913,QUEEN,1996-03-28,Queen Cozinha,Brazil,768.75
+10914,QUEEN,1996-03-29,Queen Cozinha,Brazil,537.5
+10915,TORTU,1996-03-29,Tortuga Restaurante,Mexico,539.5
+10916,RANCH,1996-03-29,Rancho grande,Argentina,686.7
+10917,ROMEY,1996-04-01,Romero y tomillo,Spain,365.89
+10918,BOTTM,1996-04-01,Bottom-Dollar Markets,Canada,1447.5
+10919,LINOD,1996-04-01,LINO-Delicateses,Venezuela,1122.8
+10920,AROUT,1996-04-02,Around the Horn,UK,390
+10921,VAFFE,1996-04-02,Vaffeljernet,Denmark,1936
+10922,HANAR,1996-04-02,Hanari Carnes,Brazil,742.5
+10923,LAMAI,1996-04-02,La maison d'Asie,France,748.8
+10924,BERGS,1996-04-03,Berglunds snabbköp,Sweden,1835.7
+10925,HANAR,1996-04-03,Hanari Carnes,Brazil,475.15
+10926,ANATR,1996-04-03,Ana Trujillo Emparedados y helados,Mexico,514.4
+10927,LACOR,1996-04-04,La corne d'abondance,France,800
+10928,GALED,1996-04-04,Galería del gastrónomo,Spain,137.5
+10929,FRANK,1996-04-04,Frankenversand,Germany,1174.75
+10930,SUPRD,1996-04-05,Suprêmes délices,Belgium,2255.5
+10931,RICSU,1996-04-05,Richter Supermarkt,Switzerland,799.2
+10932,BONAP,1996-04-05,Bon app',France,1788.6299999999999
+10933,ISLAT,1996-04-05,Island Trading,UK,920.6
+10934,LEHMS,1996-04-08,Lehmanns Marktstand,Germany,500
+10935,WELLI,1996-04-08,Wellington Importadora,Brazil,619.5
+10936,GREAL,1996-04-08,Great Lakes Food Market,USA,456
+10937,CACTU,1996-04-09,Cactus Comidas para llevar,Argentina,644.8
+10938,QUICK,1996-04-09,QUICK-Stop,Germany,2731.875
+10939,MAGAA,1996-04-09,Magazzini Alimentari Riuniti,Italy,637.5
+10940,BONAP,1996-04-10,Bon app',France,360
+10941,SAVEA,1996-04-10,Save-a-lot Markets,USA,4011.75
+10942,REGGC,1996-04-10,Reggiani Caseifici,Italy,560
+10943,BSBEV,1996-04-10,B's Beverages,UK,711
+10944,BOTTM,1996-04-11,Bottom-Dollar Markets,Canada,1025.325
+10945,MORGK,1996-04-11,Morgenstern Gesundkost,Germany,245
+10946,VAFFE,1996-04-11,Vaffeljernet,Denmark,1407.5
+10947,BSBEV,1996-04-12,B's Beverages,UK,220
+10948,GODOS,1996-04-12,Godos Cocina Típica,Spain,2362.25
+10949,BOTTM,1996-04-12,Bottom-Dollar Markets,Canada,4422
+10950,MAGAA,1996-04-15,Magazzini Alimentari Riuniti,Italy,110
+10951,RICSU,1996-04-15,Richter Supermarkt,Switzerland,458.755
+10952,ALFKI,1996-04-15,Alfreds Futterkiste,Germany,471.2
+10953,AROUT,1996-04-15,Around the Horn,UK,4441.25
+10954,LINOD,1996-04-16,LINO-Delicateses,Venezuela,1659.5349999999999
+10955,FOLKO,1996-04-16,Folk och fä HB,Sweden,74.4
+10956,BLAUS,1996-04-16,Blauer See Delikatessen,Germany,677
+10957,HILAA,1996-04-17,HILARIÓN-Abastos,Venezuela,1762.7
+10958,OCEAN,1996-04-17,Océano Atlántico Ltda.,Argentina,781
+10959,GOURL,1996-04-17,Gourmet Lanchonetes,Brazil,131.75
+10960,HILAA,1996-04-18,HILARIÓN-Abastos,Venezuela,265.35
+10961,QUEEN,1996-04-18,Queen Cozinha,Brazil,1119.9
+10962,QUICK,1996-04-18,QUICK-Stop,Germany,3584
+10963,FURIB,1996-04-18,Furia Bacalhau e Frutos do Mar,Portugal,57.8
+10964,SPECD,1996-04-19,Spécialités du monde,France,2052.5
+10965,OLDWO,1996-04-19,Old World Delicatessen,USA,848
+10966,CHOPS,1996-04-19,Chop-suey Chinese,Switzerland,1098.4599999999998
+10967,TOMSP,1996-04-22,Toms Spezialitäten,Germany,910.4
+10968,ERNSH,1996-04-22,Ernst Handel,Austria,1408
+10969,COMMI,1996-04-22,Comércio Mineiro,Brazil,108
+10970,BOLID,1996-04-23,Bólido Comidas preparadas,Spain,224
+10971,FRANR,1996-04-23,France restauration,France,1733.0600000000002
+10972,LACOR,1996-04-23,La corne d'abondance,France,251.5
+10973,LACOR,1996-04-23,La corne d'abondance,France,291.55
+10974,SPLIR,1996-04-24,Split Rail Beer & Ale,USA,439
+10975,BOTTM,1996-04-24,Bottom-Dollar Markets,Canada,717.5
+10976,HILAA,1996-04-24,HILARIÓN-Abastos,Venezuela,912
+10977,FOLKO,1996-04-25,Folk och fä HB,Sweden,2233
+10978,MAISD,1996-04-25,Maison Dewey,Belgium,1303.195
+10979,ERNSH,1996-04-25,Ernst Handel,Austria,4813.5
+10980,FOLKO,1996-04-26,Folk och fä HB,Sweden,248
+10981,HANAR,1996-04-26,Hanari Carnes,Brazil,15810
+10982,BOTTM,1996-04-26,Bottom-Dollar Markets,Canada,1014
+10983,SAVEA,1996-04-26,Save-a-lot Markets,USA,720.9
+10984,SAVEA,1996-04-29,Save-a-lot Markets,USA,1809.75
+10985,HUNGO,1996-04-29,Hungry Owl All-Night Grocers,Ireland,2023.38
+10986,OCEAN,1996-04-29,Océano Atlántico Ltda.,Argentina,2220
+10987,EASTC,1996-04-30,Eastern Connection,UK,2772
+10988,RATTC,1996-04-30,Rattlesnake Canyon Grocery,USA,3574.8
+10989,QUEDE,1996-04-30,Que Delícia,Brazil,1353.6
+10990,ERNSH,1996-05-01,Ernst Handel,Austria,4288.85
+10991,QUICK,1996-05-01,QUICK-Stop,Germany,2296
+10992,THEBI,1996-05-01,The Big Cheese,USA,69.6
+10993,FOLKO,1996-05-01,Folk och fä HB,Sweden,4895.4375
+10994,VAFFE,1996-05-02,Vaffeljernet,Denmark,940.5
+10995,PERIC,1996-05-02,Pericles Comidas clásicas,Mexico,1196
+10996,QUICK,1996-05-02,QUICK-Stop,Germany,560
+10997,LILAS,1996-05-03,LILA-Supermercado,Venezuela,1885
+10998,WOLZA,1996-05-03,Wolski  Zajazd,Poland,686
+10999,OTTIK,1996-05-03,Ottilies Käseladen,Germany,1197.95
+11000,RATTC,1996-05-06,Rattlesnake Canyon Grocery,USA,903.75
+11001,FOLKO,1996-05-06,Folk och fä HB,Sweden,2769
+11002,SAVEA,1996-05-06,Save-a-lot Markets,USA,1811.1
+11003,THECR,1996-05-06,The Cracker Box,USA,326
+11004,MAISD,1996-05-07,Maison Dewey,Belgium,295.38
+11005,WILMK,1996-05-07,Wilman Kala,Finland,586
+11006,GREAL,1996-05-07,Great Lakes Food Market,USA,329.685
+11007,PRINI,1996-05-08,Princesa Isabel Vinhos,Portugal,2633.9
+11008,ERNSH,1996-05-08,Ernst Handel,Austria,4680.9
+11009,GODOS,1996-05-08,Godos Cocina Típica,Spain,616.5
+11010,REGGC,1996-05-09,Reggiani Caseifici,Italy,645
+11011,ALFKI,1996-05-09,Alfreds Futterkiste,Germany,933.5
+11012,FRANK,1996-05-09,Frankenversand,Germany,2825.3
+11013,ROMEY,1996-05-09,Romero y tomillo,Spain,361
+11014,LINOD,1996-05-10,LINO-Delicateses,Venezuela,243.18
+11015,SANTG,1996-05-10,Santé Gourmet,Norway,622.35
+11016,AROUT,1996-05-10,Around the Horn,UK,491.5
+11017,ERNSH,1996-05-13,Ernst Handel,Austria,6750
+11018,LONEP,1996-05-13,Lonesome Pine Restaurant,USA,1575
+11019,RANCH,1996-05-13,Rancho grande,Argentina,76
+11020,OTTIK,1996-05-14,Ottilies Käseladen,Germany,632.4
+11021,QUICK,1996-05-14,QUICK-Stop,Germany,6306.24
+11022,HANAR,1996-05-14,Hanari Carnes,Brazil,1402
+11023,BSBEV,1996-05-14,B's Beverages,UK,1500
+11024,EASTC,1996-05-15,Eastern Connection,UK,1966.81
+11025,WARTH,1996-05-15,Wartian Herkku,Finland,270
+11026,FRANS,1996-05-15,Franchi S.p.A.,Italy,1030
+11027,BOTTM,1996-05-16,Bottom-Dollar Markets,Canada,877.7249999999999
+11028,KOENE,1996-05-16,Königlich Essen,Germany,2160
+11029,CHOPS,1996-05-16,Chop-suey Chinese,Switzerland,1286.8
+11030,SAVEA,1996-05-17,Save-a-lot Markets,USA,12615.05
+11031,SAVEA,1996-05-17,Save-a-lot Markets,USA,2393.5
+11032,WHITC,1996-05-17,White Clover Markets,USA,8902.5
+11033,RICSU,1996-05-17,Richter Supermarkt,Switzerland,3232.8
+11034,OLDWO,1996-05-20,Old World Delicatessen,USA,539.4
+11035,SUPRD,1996-05-20,Suprêmes délices,Belgium,1754.5
+11036,DRACD,1996-05-20,Drachenblut Delikatessen,Germany,1692
+11037,GODOS,1996-05-21,Godos Cocina Típica,Spain,60
+11038,SUPRD,1996-05-21,Suprêmes délices,Belgium,732.6
+11039,LINOD,1996-05-21,LINO-Delicateses,Venezuela,3090
+11040,GREAL,1996-05-22,Great Lakes Food Market,USA,200
+11041,CHOPS,1996-05-22,Chop-suey Chinese,Switzerland,1773
+11042,COMMI,1996-05-22,Comércio Mineiro,Brazil,405.75
+11043,SPECD,1996-05-22,Spécialités du monde,France,210
+11044,WOLZA,1996-05-23,Wolski  Zajazd,Poland,591.5999999999999
+11045,BOTTM,1996-05-23,Bottom-Dollar Markets,Canada,1309.5
+11046,WANDK,1996-05-23,Die Wandernde Kuh,Germany,1485.8
+11047,EASTC,1996-05-24,Eastern Connection,UK,817.875
+11048,BOTTM,1996-05-24,Bottom-Dollar Markets,Canada,525
+11049,GOURL,1996-05-24,Gourmet Lanchonetes,Brazil,273.6
+11050,FOLKO,1996-05-27,Folk och fä HB,Sweden,810
+11051,LAMAI,1996-05-27,La maison d'Asie,France,36
+11052,HANAR,1996-05-27,Hanari Carnes,Brazil,1332
+11053,PICCO,1996-05-27,Piccolo und mehr,Austria,3055
+11054,CACTU,1996-05-28,Cactus Comidas para llevar,Argentina,305
+11055,HILAA,1996-05-28,HILARIÓN-Abastos,Venezuela,1727.5
+11056,EASTC,1996-05-28,Eastern Connection,UK,3740
+11057,NORTS,1996-05-29,North/South,UK,45
+11058,BLAUS,1996-05-29,Blauer See Delikatessen,Germany,858
+11059,RICAR,1996-05-29,Ricardo Adocicados,Brazil,1838
+11060,FRANS,1996-05-30,Franchi S.p.A.,Italy,266
+11061,GREAL,1996-05-30,Great Lakes Food Market,USA,510
+11062,REGGC,1996-05-30,Reggiani Caseifici,Italy,406.40000000000003
+11063,HUNGO,1996-05-30,Hungry Owl All-Night Grocers,Ireland,1342.95
+11064,SAVEA,1996-05-31,Save-a-lot Markets,USA,4330.400000000001
+11065,LILAS,1996-05-31,LILA-Supermercado,Venezuela,189.42000000000002
+11066,WHITC,1996-05-31,White Clover Markets,USA,928.75
+11067,DRACD,1996-06-03,Drachenblut Delikatessen,Germany,86.85000000000001
+11068,QUEEN,1996-06-03,Queen Cozinha,Brazil,2027.08
+11069,TORTU,1996-06-03,Tortuga Restaurante,Mexico,360
+11070,LEHMS,1996-06-04,Lehmanns Marktstand,Germany,1629.975
+11071,LILAS,1996-06-04,LILA-Supermercado,Venezuela,484.5
+11072,ERNSH,1996-06-04,Ernst Handel,Austria,5218
+11073,PERIC,1996-06-04,Pericles Comidas clásicas,Mexico,300
+11074,SIMOB,1996-06-05,Simons bistro,Denmark,232.08499999999998
+11075,RICSU,1996-06-05,Richter Supermarkt,Switzerland,498.1
+11076,BONAP,1996-06-05,Bon app',France,792.75
+11077,RATTC,1996-06-05,Rattlesnake Canyon Grocery,USA,1255.7205000000001
+11079,BLONP,1999-02-17,Blondel père et fils,France,126.8

@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Executive summary of revenue structure and concentration analysis across customers, categories, and SKUs.">
+  <title>Revenue Structure & Concentration Analysis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+  <main class="page">
+    <header class="hero">
+      <div>
+        <h1>Revenue Structure &amp;<br>Concentration Analysis</h1>
+        <p class="subtitle">
+          Evaluates revenue growth dynamics, customer concentration risk, and internal SKU dependency using HHI,
+          effective counts, and Pareto concentration modeling.
+        </p>
+      </div>
+      <div class="hero-meta">
+        <p class="badge">Executive Summary</p>
+        <p class="author">Javier Gallegos</p>
+        <p class="stack">
+          SQL · Excel · Tableau ·
+          <a class="github-link" href="#" aria-label="GitHub repository link placeholder">GitHub</a>
+        </p>
+      </div>
+    </header>
+
+    <section class="insight-bar" aria-label="Primary insight">
+      <p>
+        <span class="insight-icon" aria-hidden="true">◈</span>
+        <span class="insight-copy">
+          Primary structural exposure is <strong>product-level fragility within select categories</strong>, not customer
+          dependency. Customer and category concentration both score <strong>low risk</strong>; SKU compression in
+          high-revenue categories warrants targeted monitoring.
+        </span>
+      </p>
+    </section>
+
+    <section class="stat-grid" aria-label="Key metrics">
+      <article class="stat-card">
+        <p class="value">0.034</p>
+        <p class="label">Customer HHI</p>
+        <p class="desc">Low concentration — no single customer exceeds ~9% of total revenue.</p>
+      </article>
+      <article class="stat-card">
+        <p class="value">0.142</p>
+        <p class="label">Category HHI</p>
+        <p class="desc">Balanced category exposure; top 2 categories contribute ~40% of revenue.</p>
+      </article>
+      <article class="stat-card">
+        <p class="value">3–4</p>
+        <p class="label">Effective SKUs</p>
+        <p class="desc">Driving Category 1 revenue despite 12 total SKUs in the category.</p>
+      </article>
+    </section>
+
+    <section class="panel panel-main" aria-labelledby="growth-title">
+      <header class="panel-head">
+        <div>
+          <p class="kicker">Insight 1 · Revenue Growth</p>
+          <h2 id="growth-title">Monthly Revenue Growth Driven by Order Volume Expansion</h2>
+        </div>
+        <p class="tag warn">Growth Accelerating</p>
+      </header>
+      <img
+        src="../Images/Monthly%20Revenue%20Growth%20Volume%20Expansion.png"
+        alt="Monthly revenue bars with an order volume trend line that rises in the most recent months."
+      >
+      <p class="panel-note">
+        Revenue accelerated sharply in the last five months, with <strong>monthly orders reaching 77 and revenue hitting
+        ~$129K</strong>. AOV remained stable and new customer acquisition stayed minimal, confirming <strong>growth is
+        primarily volume-driven</strong> rather than price inflation.
+      </p>
+    </section>
+
+    <section class="split-panels" aria-label="Customer and SKU risk views">
+      <article class="panel">
+        <header class="panel-head">
+          <div>
+            <p class="kicker">Insight 2 · Customer Concentration</p>
+            <h2>Pareto Distribution &amp; Concentration</h2>
+          </div>
+          <p class="tag ok">Low Risk</p>
+        </header>
+        <img
+          src="../Images/Customer%20Pareto%20Chart.png"
+          alt="Pareto curve showing cumulative revenue concentration across ranked customers."
+        >
+        <p class="panel-note">
+          Top 20% of customers generate about <strong>60% of revenue</strong>, indicating a mild Pareto
+          curve. Customer <strong>HHI of 0.034</strong> confirms <strong>low dependency risk</strong> at the customer level.
+        </p>
+      </article>
+
+      <article class="panel panel-risk">
+        <header class="panel-head">
+          <div>
+            <p class="kicker">Insight 3 · SKU Dependency</p>
+            <h2>SKU Compression Within Categories</h2>
+          </div>
+          <p class="tag caution">Moderate Risk</p>
+        </header>
+        <img
+          src="../Images/SKU%20Dependency%20Dumbbell%20Chart.png"
+          alt="Dumbbell chart comparing observed SKU concentration versus effective SKU counts by category."
+        >
+        <p class="panel-note">
+          Category 1 (<strong>~21% of revenue</strong>) shows the highest compression gap (<strong>HHI: 0.304</strong>). SKU-level dependency is
+          localized to select categories - <strong>not customer or category-level</strong>.
+        </p>
+      </article>
+    </section>
+
+    <section class="bottom-grid" aria-label="Risk summary and recommendations">
+      <article class="card card-risk">
+        <p class="kicker">Structural Risk Summary</p>
+        <div class="risk-row"><span class="pill low">Low</span><span>Customer Concentration — HHI 0.034</span></div>
+        <div class="risk-row"><span class="pill low">Low</span><span>Category-Level Concentration — HHI 0.142</span></div>
+        <div class="risk-row"><span class="pill mod">Moderate</span><span>SKU Dependency within select categories (1, 6, 5)</span></div>
+        <p class="summary-note">
+          Primary exposure is <strong>product-level fragility</strong>, not customer or category dependency. Risk is
+          localized at the SKU level within high-revenue categories.
+        </p>
+      </article>
+
+      <article class="card card-recs">
+        <p class="kicker">Strategic Recommendations</p>
+        <ol class="recommendations">
+          <li>Monitor high-compression categories for overreliance on leading SKUs (Categories 1, 6, 5).</li>
+          <li>Evaluate SKU rationalization where redundancy exists.</li>
+          <li>Protect top-performing SKUs in compressed categories from supply or pricing disruptions.</li>
+          <li>Continue customer diversification to sustain the current low-concentration structure.</li>
+        </ol>
+      </article>
+    </section>
+
+    <section class="quick-links" aria-label="Repository links">
+      <a href="../README.md">README</a>
+      <a href="../SQL/">SQL Queries</a>
+      <a href="../Outputs/">Outputs</a>
+      <a href="../Outputs/BQ%20Analysis%20Extension.xlsx">Workbook</a>
+    </section>
+
+    <footer class="footer">
+      <p>SQL-based Structural Growth &amp; Risk Assessment · Portfolio Project · Javier Gallegos</p>
+      <p>Executive Summary</p>
+    </footer>
+  </main>
+</body>
+</html>

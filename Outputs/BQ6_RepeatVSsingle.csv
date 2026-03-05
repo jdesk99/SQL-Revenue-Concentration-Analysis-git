@@ -1,0 +1,3 @@
+CustomerType,CustomerCount,TotalRevenue,OrderCount,WeightedAOV,AvgOrderPerCustomer
+Repeat,88,1265819.0394999997,830,1525.0831801204815,9.431818181818182
+One Time,1,100.8,1,100.8,1
