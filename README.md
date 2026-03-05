@@ -4,7 +4,7 @@ Revenue structure and concentration analysis of the Northwind database using adv
 Live landing page: https://jdesk99.github.io/SQL-Revenue-Concentration-Analysis-git/
 
 ## Business Context & Objective
-As revenue accelerated in the most recent 5 months, this project evaluates whether growth is structurally resilient or overly dependent on concentrated customers, categories, or SKUs.
+As revenue accelerated in the most last 5 months, this project evaluates whether growth is structurally resilient or overly dependent on concentrated customers, categories, or SKUs.
 
 The analysis combines:
 - SQL-based growth decomposition
