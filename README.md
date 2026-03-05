@@ -1,7 +1,7 @@
 # SQL-Revenue-Concentration-Analysis-git
 
 ## Business Context
-As revenue accelerated sharply during the last five months of the observation period, management required a structural assessment of growth sustainability and concentration risk. The objective was to determine how revenue expansion occurred and whether that expansion was supported by diversified revenue foundations or dependent on concentrated exposure across customers, product categories, or individual SKUs.
+As revenue accelerated sharply during the last five months, management required a structural assessment of growth sustainability and concentration risk. The objective was to determine how revenue expansion occurred and whether that expansion was supported by diversified revenue foundations or dependent on concentrated exposure across customers, product categories, or individual SKUs.
 
 The analysis combines:
 - SQL-based growth decomposition
@@ -12,7 +12,7 @@ The analysis combines:
 ## Overview
 
 - [Revenue & Concentration Analysis Landing Page](https://jdesk99.github.io/SQL-Revenue-Concentration-Analysis-git/)
-  -  [Read the full Detailed Project Brief (PDF)](docs/Project%202%20Brief.pdf)
+  -  **[Read the full Detailed Project Brief (PDF)](https://raw.githubusercontent.com/jdesk99/SQL-Revenue-Concentration-Analysis-git/main/docs/Project%202%20Brief.pdf)**
 - [Forecast-Driven Inventory Policy Project](https://jdesk99.github.io/Project-1-Forecasting-Git/)
 
 
