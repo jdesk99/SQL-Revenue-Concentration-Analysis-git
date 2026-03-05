@@ -162,6 +162,12 @@ h1 {
   border-color: #c9b999;
 }
 
+.hero-btn-secondary:hover {
+  background: #f4ebd7;
+  border-color: #bca879;
+  color: #4e3f1f;
+}
+
 .hero-btn:hover {
   opacity: 0.9;
 }
@@ -522,6 +528,16 @@ h1 {
 .quick-links a:focus-visible {
   outline: 2px solid #4f6fb4;
   outline-offset: 2px;
+}
+
+.quick-link-right-start {
+  margin-left: auto;
+}
+
+.quick-link-primary {
+  background: var(--gold) !important;
+  border-color: var(--gold) !important;
+  color: #1b1b1b !important;
 }
 
 .footer {
