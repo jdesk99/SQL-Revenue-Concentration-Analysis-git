@@ -12,7 +12,7 @@ The analysis combines:
 ## Overview
 
 - [Revenue & Concentration Analysis Landing Page](https://jdesk99.github.io/SQL-Revenue-Concentration-Analysis-git/)
-  -  **[Read the full Detailed Project Brief (PDF)](https://jdesk99.github.io/SQL-Revenue-Concentration-Analysis-git/Project%202%20Brief.pdf)**
+  -  **[Read the Revenue & Concentration Analysis Brief (PDF)](https://jdesk99.github.io/SQL-Revenue-Concentration-Analysis-git/Revenue%20%26%20Concentration%20Analysis%20Brief.pdf)**
 - [Forecast-Driven Inventory Policy Project](https://jdesk99.github.io/Project-1-Forecasting-Git/)
 
 
